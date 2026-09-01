@@ -8,8 +8,8 @@
 const CONFIG = {
   // Paste your Supabase project URL and anon key here to go live.
   // Leave blank to run on the built-in demo estate.
-  SUPABASE_URL: '',
-  SUPABASE_ANON_KEY: '',
+  SUPABASE_URL: 'https://wzbzquanhzwpbglrpsxa.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_m01bv9_Y_a8-TA8Gj6tXkw_8yyajkUX',
   TABLE: 'fdd_validations',
   OPERATOR: 'A. Bradley',
   STALE_HOURS: 4        // an override open longer than this is flagged red
